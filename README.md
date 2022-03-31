@@ -1,6 +1,7 @@
 # SpringEx
-  + springBoot, JPA 등 간단하게 화면 만들기
-  + springboot를 간단한 application 개발
+  + spring, springboot 공부
+    ++ springboot, JPA 등 간단하게 화면 만들기
+    ++ springboot를 간단한 application 개발
   
 ## Codec
   + com.example.hellospring
